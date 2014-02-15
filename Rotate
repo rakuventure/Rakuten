@@ -1,0 +1,23 @@
+<html>
+    <head>
+        <link rel="stylesheet" href="style.css" />
+    </head>
+    
+    <body>
+        <!-- Right below is an image of the sun -->
+        <img id="sun" src="http://goo.gl/dEEssP">
+        <!-- Insert the 'earth' on the next line -->
+        
+        <div id="earth-orbit">
+            <a href="https://plus.google.com">
+            <img id="earth" src="http://goo.gl/o3YWu9">
+            </a>
+        </div>
+        
+         <div id="earth-orbit2">
+            <a href="https://plus.google.com">
+            <img id="earth2" src="http://goo.gl/o3YWu9">
+            </a>
+        </div>
+    </body>
+</html>
